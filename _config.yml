@@ -1,0 +1,14 @@
+layout_spectrum: 0.23144738865084946
+typography_spectrum: 0.0006425101310014725
+color:
+  brandStrength: 0.6185587900690734
+  lightness: 0.37611643341369927
+  saturation: 0.5036437003873289
+  rhythmicContrast: 0.5810820246115327
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: goyals
